@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 8E90-02FA
+
+ Directory of D:\Workspace\Git\MyProject
+
+10/23/2022  12:03 PM    <DIR>          .
+10/23/2022  12:03 PM    <DIR>          ..
+10/23/2022  12:03 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  38,005,010,432 bytes free
